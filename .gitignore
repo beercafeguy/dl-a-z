@@ -5,3 +5,4 @@ models
 my_logs
 logs
 my_fashion_mnist_hp_tuning
+creditcard.csv
