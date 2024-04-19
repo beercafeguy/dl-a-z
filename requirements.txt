@@ -19,3 +19,4 @@ scipy
 pydot
 graphviz
 pydot-ng
+keras-tuner
