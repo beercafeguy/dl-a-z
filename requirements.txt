@@ -21,3 +21,4 @@ graphviz
 pydot-ng
 keras-tuner
 torch
+ucimlrepo
